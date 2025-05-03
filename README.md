@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Jawad Chowdhury
+<h1 align="center">Hi 👋, I'm Jawad Chowdhury</h1>
+<h3 align="center">QA Engineer turning Data Scientist 🚀</h3>
 
 ## 👨‍💻 About Me
 I'm a **Software Engineer (QA)** with a growing passion for development and data science. I enjoy solving real-world problems through code and continuously expanding my skillset in both frontend and AI domains.
@@ -13,7 +14,6 @@ I'm a **Software Engineer (QA)** with a growing passion for development and data
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
 ## 📊 GitHub Stats
 ![Jawad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawad-chowdhury&show_icons=true&theme=radical)
