@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I'm Jawad Chowdhury
 
-<!--
-**jawadchy2150/jawadchy2150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I'm a **Software Engineer (QA)** with a growing passion for development and data science. I enjoy solving real-world problems through code and continuously expanding my skillset in both frontend and AI domains.
 
-Here are some ideas to get you started:
+- 🔍 Currently exploring: **Machine Learning** & **Next.js**
+- 🛠️ Comfortable with: **JavaScript**, **Python**, and **React**
+- 🎯 Goal: Complete a **Data Science Bootcamp on Udemy** and transition into a more development-focused or data-centric role
+- 📈 Always curious and learning — one project at a time!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+
+## 📊 GitHub Stats
+![Jawad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawad-chowdhury&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jawad-chowdhury-477262240/)
+
+---
