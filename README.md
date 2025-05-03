@@ -16,7 +16,7 @@ I'm a **Software Engineer (QA)** with a growing passion for development and data
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 
 ## 📊 GitHub Stats
-![Jawad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawad-chowdhury&show_icons=true&theme=radical)
+![Jawad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawadchy2150&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jawad-chowdhury-477262240/)
