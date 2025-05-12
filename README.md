@@ -15,6 +15,14 @@ I'm a **Software Engineer (QA)** with a growing passion for development and data
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 
+### 🌐 Projects & Websites
+
+- 🏠 **Rent Property App** — [Live Demo](https://rent-property-jet.vercel.app/)  
+  A modern property rental platform using Next.js for dynamic listings and responsive UI.
+
+- 🧾 **Better Call Us** — [Live Demo](https://bettercallus-mb0m.onrender.com/)  
+  A full-stack business website built to connect users with service providers.
+
 ## 📊 GitHub Stats
 ![Jawad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawadchy2150&show_icons=true&theme=radical)
 
